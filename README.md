@@ -1,4 +1,5 @@
 # pepper_detection
+object detection in pepper
 # recognition.py
 Function capture_pic() in recongition.py uses to capture picture from pepper.
 
